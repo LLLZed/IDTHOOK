@@ -1,0 +1,8 @@
+﻿  Building 'MyDriver' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Driver.c
+  Driver.vcxproj -> E:\Src\Driver\idt\x64-IDT-HOOK-master\x64\Release\MyDriver.sys
+  Done Adding Additional Store
+  Successfully signed: E:\Src\Driver\idt\x64-IDT-HOOK-master\x64\Release\MyDriver.sys
+  
+  Inf2Cat task was skipped as there were no inf files to process
+  
